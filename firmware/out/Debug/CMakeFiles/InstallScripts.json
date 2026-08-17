@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/poe/dev/hardware/spotwelder/code/out/Debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

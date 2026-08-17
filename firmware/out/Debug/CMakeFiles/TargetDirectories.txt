@@ -1,0 +1,4 @@
+/home/poe/dev/hardware/spotwelder/code/out/Debug/CMakeFiles/linker_script.dir
+/home/poe/dev/hardware/spotwelder/code/out/Debug/CMakeFiles/firmware.dir
+/home/poe/dev/hardware/spotwelder/code/out/Debug/CMakeFiles/edit_cache.dir
+/home/poe/dev/hardware/spotwelder/code/out/Debug/CMakeFiles/rebuild_cache.dir

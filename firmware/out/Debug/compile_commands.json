@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/poe/dev/hardware/spotwelder/code/out/Debug",
+  "command": "/usr/bin/riscv64-elf-g++ -DCH32V003=1 -I/home/poe/dev/hardware/spotwelder/code/ch32fun/ch32fun -I/home/poe/dev/hardware/spotwelder/code/ch32fun/extralibs -I/home/poe/dev/hardware/spotwelder/code/src -g -march=rv32ec -mabi=ilp32e -g -Os -flto -ffunction-sections -fdata-sections -fmessage-length=0 -msmall-data-limit=8 -fno-tree-loop-distribute-patterns -static-libgcc -Wall -fno-exceptions -fno-rtti -fno-threadsafe-statics -std=gnu++17 -o CMakeFiles/firmware.dir/src/main.cpp.obj -c /home/poe/dev/hardware/spotwelder/code/src/main.cpp",
+  "file": "/home/poe/dev/hardware/spotwelder/code/src/main.cpp",
+  "output": "CMakeFiles/firmware.dir/src/main.cpp.obj"
+},
+{
+  "directory": "/home/poe/dev/hardware/spotwelder/code/out/Debug",
+  "command": "/usr/bin/riscv64-elf-gcc -DCH32V003=1 -I/home/poe/dev/hardware/spotwelder/code/ch32fun/ch32fun -I/home/poe/dev/hardware/spotwelder/code/ch32fun/extralibs -I/home/poe/dev/hardware/spotwelder/code/src -g -march=rv32ec -mabi=ilp32e -g -Os -flto -ffunction-sections -fdata-sections -fmessage-length=0 -msmall-data-limit=8 -fno-tree-loop-distribute-patterns -static-libgcc -Wall -std=gnu99 -o CMakeFiles/firmware.dir/src/st7789.c.obj -c /home/poe/dev/hardware/spotwelder/code/src/st7789.c",
+  "file": "/home/poe/dev/hardware/spotwelder/code/src/st7789.c",
+  "output": "CMakeFiles/firmware.dir/src/st7789.c.obj"
+},
+{
+  "directory": "/home/poe/dev/hardware/spotwelder/code/out/Debug",
+  "command": "/usr/bin/riscv64-elf-gcc -DCH32V003=1 -I/home/poe/dev/hardware/spotwelder/code/ch32fun/ch32fun -I/home/poe/dev/hardware/spotwelder/code/ch32fun/extralibs -I/home/poe/dev/hardware/spotwelder/code/src -g -march=rv32ec -mabi=ilp32e -g -Os -flto -ffunction-sections -fdata-sections -fmessage-length=0 -msmall-data-limit=8 -fno-tree-loop-distribute-patterns -static-libgcc -Wall -std=gnu99 -o CMakeFiles/firmware.dir/ch32fun/ch32fun/ch32fun.c.obj -c /home/poe/dev/hardware/spotwelder/code/ch32fun/ch32fun/ch32fun.c",
+  "file": "/home/poe/dev/hardware/spotwelder/code/ch32fun/ch32fun/ch32fun.c",
+  "output": "CMakeFiles/firmware.dir/ch32fun/ch32fun/ch32fun.c.obj"
+}
+]

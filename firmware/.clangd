@@ -1,0 +1,12 @@
+CompileFlags:
+  Add:
+    - --target=riscv32-unknown-elf
+    - -I/usr/riscv64-elf/include
+    - -I/usr/lib/gcc/riscv64-elf/15.2.0/include
+  Remove:
+    - -mabi=*
+    - -march=*
+    - -msmall-data-limit=*
+    - -fno-tree-loop-distribute-patterns
+    - -flto
+    - -static-libgcc
