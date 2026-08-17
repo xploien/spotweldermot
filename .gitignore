@@ -1,0 +1,6 @@
+*.kicad_prl
+*.kicad_lock
+*-bak
+*.pro.user
+.history/
+fp-info-cache
