@@ -1,0 +1,6 @@
+(version 1)
+
+(rule mcu_finepitch
+  (condition "A.Reference == 'U1'")
+  (constraint clearance (min 0.1mm))
+  (constraint track_width (min 0.1mm) ))

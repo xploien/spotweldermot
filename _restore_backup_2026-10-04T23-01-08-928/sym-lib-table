@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "2026-08-19_05-26-32") (type "KiCad") (uri "${KIPRJMOD}/extrapcblib/ul_BTA40-600B/KiCADv6/2026-08-19_05-26-32.kicad_sym") (options "") (descr ""))
+)
